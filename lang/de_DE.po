@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OldPostSpinner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-15 13:53+0100\n"
+"PO-Revision-Date: 2011-03-15 13:53+0100\n"
+"Last-Translator: Juergen Schulze <1manfactory@gmail.com>\n"
+"Language-Team: Juergen Schulze <1manfactory@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: c:\\Program Files\\xampp\\htdocs\\blog\\\n"
+"X-Poedit-SearchPath-0: wp-content\\plugins\\old-post-spinner\n"
+
+#: wp-content\plugins\old-post-spinner/OldPostSpinner.php:47
+msgid "Originally posted."
+msgstr "Originaldatum"
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:66
+msgid "You are not allowed to update options."
+msgstr "Sie dürfen die Einstellungen nicht verändern."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:89
+msgid "Old Post Spinner Options Updated."
+msgstr "Old Post Spinner Optionen angepasst"
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:93
+msgid "OPS goes on."
+msgstr "OPS an."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:95
+msgid "OPS goes off."
+msgstr "OPS aus."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:100
+msgid "Content and Titel Spinner goes on."
+msgstr "Inhalt und Titel Spinner an."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:102
+msgid "Content and Titel Spinner goes off."
+msgstr "Inhalt und Titel Spinner aus."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:107
+msgid "Please use a value between 1 and 9999 minutes as interval."
+msgstr "Bitte nutzen Sie einen Wert zwischen 1 und 9999 Minuten als Intervall."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:112
+msgid "Please use a value between 1 and 9999 minutes as random interval."
+msgstr "Bitte nutzen Sie einen Wert zwischen 1 und 9999 Minuten als zufälliges Intervall."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:117
+msgid "Please use a numeric value as post age."
+msgstr "Bitte eine Zahl als Alter nehmen."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:122
+msgid "Please use a value between 1 and 9 as position."
+msgstr "Bitte einen Positionswetr von 1 bis 9 angeben."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:127
+msgid "Please not more than 20 characters for the prefix string."
+msgstr "Bitte nicht mehr als 20 Zeichen für das Präfix."
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:228
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:4
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:254
+msgid "Old Post Spinner (OPS) Error: Can't write to log folder "
+msgstr "Old Post Spinner (OPS) Fehler: Kein Zugriff möglich auf Ordner: "
+
+#: wp-content\plugins\old-post-spinner/OPS_admin.php:254
+msgid ". Permissions 777 needed."
+msgstr ". Zugriffsrechte 777 setzen."
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:76
+msgid "No post found to promote."
+msgstr "Kein Artikel zur Beförderung gefunden."
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:105
+msgid "Promote to top. The new date (now) is: "
+msgstr "An die Spitze befördern. Das neue (jetzige) Datum: "
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:114
+msgid "No post found to detect the proper date."
+msgstr "Kein Artikel zur Datumsermittlung gefunden."
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:125
+msgid "Place between: "
+msgstr "Platzieren zwischen: "
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:126
+msgid "The new date is: "
+msgstr "Das neue Datum: "
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:135
+msgid "Duplicating Post ID: "
+msgstr "Artikel wird dupliziert ID:"
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:143
+msgid "Content and/or Title will be spinned"
+msgstr "Inhalt und/oder Titel werden gespinnt"
+
+#: wp-content\plugins\old-post-spinner/OPS_core.php:180
+msgid "Creating a new sitemap."
+msgstr "Neue Sitemap wird angelegt."
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:14
+msgid "Options"
+msgstr "Optionen"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:20
+msgid "Switch OPS (Old Post Spinner) "
+msgstr "OPS (Old Post Spinner) ist"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:21
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:57
+msgid "On"
+msgstr "An"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:22
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:58
+msgid "Off"
+msgstr "Aus"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:23
+msgid "Please correct errors before switching OPS on."
+msgstr "Bitte korrigieren Sie die Fehler bevor Sie OPS aktivieren."
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:26
+msgid "Minimum interval between old post promotions: "
+msgstr "Minimalintervall zwischen zwei Beförderungen:"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:27
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:31
+msgid "Minutes"
+msgstr "Minuten"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:30
+msgid "Random maximum interval (added to minimum interval): "
+msgstr "Maximales Zufallsintervall (wird zum Minimalintervall addiert):"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:34
+msgid "Post age before considered for promotion: "
+msgstr "Mindestalter eines Artikels zur Beförderung."
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:35
+msgid "Days"
+msgstr "Tage"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:38
+msgid "Promote post to position: "
+msgstr "Neus Position für Artikel:"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:42
+msgid "Show Original Publication Date At Top of Post? "
+msgstr "Soll das Originaldatum am Anfang des Artikels gezeigt werden?"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:43
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:48
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:64
+msgid "Yes"
+msgstr "Ja"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:44
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:49
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:65
+msgid "No"
+msgstr "Nein"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:47
+msgid "Show Original Publication Date at Post End? "
+msgstr "Soll das Originaldatum am Ende des Artikels gezeigt werden?"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:52
+msgid "Prefix string for Original Publication Date: "
+msgstr "Präfix zum Originaldatum:"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:56
+msgid "Spin content and title?"
+msgstr "Inhalt und Titel spinnen?"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:59
+msgid "Use the spinning characters &#x01C0;, &#123; and &#125; to spin your text. Check FAQs for help."
+msgstr "Zum Spinnen, benutzen Sie die Zeichen &#x01C0;, &#123; und &#125;.  In den FAQs finden Sie Hilfe."
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:63
+msgid "Duplicate the post?"
+msgstr "Artikel duplizieren?"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:66
+msgid "This will create a new duplicate of the post. Use only when spinning is switched on."
+msgstr "Erzeugt ein Duplikat des Artikels. Nur nutzen, wenn Spinning aktviert ist."
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:70
+msgid "Categories to ignore from promotion: "
+msgstr "Welche Kategorien sollen ignoriert werden:"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:84
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: wp-content\plugins\old-post-spinner/OPS_menu.php:98
+msgid "Infobox "
+msgstr "Infobox "
+
+#: wp-content\plugins\old-post-spinner/OPS_meta.php:26
+msgid "Title"
+msgstr "Titel"
+
+#: wp-content\plugins\old-post-spinner/OPS_meta.php:27
+msgid "Please enter a title. Don't forget the spinning characters."
+msgstr "Bitte geben Sie einen Titel ein. Vergessen Sie nicht die Spinning-Zeichen."
+
+#: wp-content\plugins\old-post-spinner/OPS_meta.php:33
+msgid "Content"
+msgstr "Inhalt"
+
+#: wp-content\plugins\old-post-spinner/OPS_meta.php:34
+msgid "Please enter the text. Don't forget the spinning characters."
+msgstr "Bitte geben Sie den Text ein. Vergessen Sie nicht die Spinning-Zeichen."
+
+#: wp-content\plugins\old-post-spinner/OPS_meta.php:40
+msgid "Old Post Spinner Data"
+msgstr "Old Post Spinner Daten"
+
+#~ msgid "Hours"
+#~ msgstr "Stunden"
+
+#~ msgid "Please enter a title"
+#~ msgstr "Bitte einen Titel eingeben."
